@@ -1,4 +1,4 @@
-FROM python:3-slim-buster
+FROM python:3.10-rc-slim
 
 # Install all the required packages
 WORKDIR /usr/src/app
