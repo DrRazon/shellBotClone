@@ -8,3 +8,4 @@ streamlink
 youtube-dl
 git+https://github.com/yt-dlp/yt-dlp
 rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
